@@ -1,9 +1,12 @@
-# Web-Visualization-Dashboard-Project
+# Lab Website for Microbial Ecology and Bioinformatics Research
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+### Features of the Research Lab Website service include:
 
-Use a different dataset! The requirements above still hold, but make it your own.
-Use a bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
-Add extra visualizations! The more comparisons the better, right?
-Use meaningful glyphicons next to links in the header.
-Have visualization navigation on every visualizations page with an active state. See the screenshots below.
+* Used bootstrap theme to customize the website and make it look professional 
+
+* Content areas for information about the lab, research projects, a lab team directory, publications, and lab contacts
+
+* Integration with various useful resources
+
+* Drag and drop content placement 
+
