@@ -1,6 +1,8 @@
 # Lab Website for Microbial Ecology and Bioinformatics Research
 
-### Features of the Research Lab Website service include:
+[View Website](https://lab-page-microbial-ecology.herokuapp.com/)
+
+### Features of the Research Lab Website include:
 
 * Used bootstrap theme to customize the website and make it look professional 
 
