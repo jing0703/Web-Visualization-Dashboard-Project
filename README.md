@@ -2,7 +2,7 @@
 
 [View Website](https://lab-page-microbial-ecology.herokuapp.com/)
 
-### Features of the Research Lab Website include:
+### Features of the Research Lab Website:
 
 * Used bootstrap theme to customize the website and make it look professional 
 
